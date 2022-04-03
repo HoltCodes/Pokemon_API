@@ -1,0 +1,104 @@
+Charmeleon:
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "blaze",
+                "url": "https://pokeapi.co/api/v2/ability/66/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "solar-power",
+                "url": "https://pokeapi.co/api/v2/ability/94/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+
+Ditto:
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "limber",
+                "url": "https://pokeapi.co/api/v2/ability/7/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "imposter",
+                "url": "https://pokeapi.co/api/v2/ability/150/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],
+
+Mewtwo:
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "pressure",
+                "url": "https://pokeapi.co/api/v2/ability/46/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "unnerve",
+                "url": "https://pokeapi.co/api/v2/ability/127/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],    
+
+Gyarados:
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "intimidate",
+                "url": "https://pokeapi.co/api/v2/ability/22/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "moxie",
+                "url": "https://pokeapi.co/api/v2/ability/153/"
+            },
+            "is_hidden": true,
+            "slot": 3
+        }
+    ],    
+
+Jigglypuff:
+{
+    "abilities": [
+        {
+            "ability": {
+                "name": "cute-charm",
+                "url": "https://pokeapi.co/api/v2/ability/56/"
+            },
+            "is_hidden": false,
+            "slot": 1
+        },
+        {
+            "ability": {
+                "name": "competitive",
+                "url": "https://pokeapi.co/api/v2/ability/172/"
+            },
+            "is_hidden": false,
+            "slot": 2
+        },
+
